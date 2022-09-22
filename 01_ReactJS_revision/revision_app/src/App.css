@@ -1,0 +1,21 @@
+*{
+  margin: 5px;
+  padding: 5px;
+}
+ul{
+  background-color: black;
+  display: flex;
+}
+li{
+  list-style: none;
+  padding: 10px;
+}
+a{
+  color: white;
+  text-decoration: none;
+  margin: 10px;
+}
+#css1{
+  background-color: aqua;
+  color: black;
+}
